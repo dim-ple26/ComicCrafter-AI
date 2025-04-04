@@ -1,9 +1,9 @@
 # ComicCrafter-Ai
 
 
-_ComicCrafter AI – Bring your stories to life with AI-generated comics.  🖼️⚡_
+_ComicCrafter AI – Bring your stories to life with AI-generated comics.  🖼️⚡
 
-# Video Presentation
+# Video Presentation And Project Report Here: 
  Drive link:- https://drive.google.com/drive/folders/1h7XhkPH2wCeQ2LpNK_xKXCuPm6QIppc5
 
 
@@ -97,5 +97,9 @@ If you have improvements, bug fixes, or new feature ideas:
 Feel free to experiment and create your own comics!
 
 ---
+## Contibutors: 
+https://github.com/dim-ple26
+https://github.com/chirag1574
+
 
 
